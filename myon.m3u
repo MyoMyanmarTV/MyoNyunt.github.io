@@ -1,8 +1,17 @@
 #EXTM3U
 #EXTINF:-1 ,mrtv4  
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w223322091.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIzIDM6NDQ6MDAgUE0maGFzaF92YWx1ZT1sZzFCbjlDcXlzRWlQcmN2NzNzQitRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89076243760.jpg "group-title="Myanmar channel ",Mrtv4 #EXTVLCOPT:http-referrer= https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
-#EXTINF:-1 ,BEIN SPORT LIVE 
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA2OjI2OjUwIEFNJmhhc2hfdmFsdWU9T1dsU1AvSFpHeEk0U2lGdzhWcjg1dz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMw==
+#EXTINF:-1 ,Ssc 1
+https://af.ayassport.ir/hls2/ssc1.m3u8?fbclid=IwAR2f1k1p1kaWl402HN-HbpvWto_SWsUSvcWltvtPBtSqmdD9Bh2MxbtJ7No
+#EXTINF:-1 ,BEIN sport1 eng LIVE 
+https://stream.ayas.ir/hls2/bein1en.m3u8?fbclid=IwAR3uDPcwKLueYc9KzEesXlhX2ZavHetv1ryp2-Xxzv9ZgabB6CK5MC6
+#EXTINF:-1 ,beinsport 2 eng
+https://stream.ayas.ir/hls2/bein2en.m3u8?fbclid=IwAR0_RPyRPTHG2pfnOosrXA0oEtTcqGpnF7E0fWH0-xqrcXzrV1EG1h91
+#EXTINF:-1 , SPORT LIVE 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?fbclid=IwAR2NUN3YaV0N7xhT_BQhoJGJBDYy8kyhdTbWFlZksAuiTdvawzqVBcTLB60
+#EXTINF:-1 , sony ten1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 ,BEIN SPORT Live 
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 ,TNT sport
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
