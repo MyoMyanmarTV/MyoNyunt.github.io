@@ -1,18 +1,15 @@
-
-
-
 #EXTM3U
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 playlist_360p.m3u8
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMyA4OjE3OjQ5IEFNJmhhc2hfdmFsdWU9d0orVTdTYytNcVhieTJJc1UzcE1mZz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0yOA==
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
 playlist_480p.m3u8
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMyA4OjE3OjQ5IEFNJmhhc2hfdmFsdWU9d0orVTdTYytNcVhieTJJc1UzcE1mZz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0yOA==
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 playlist_720p.m3u8
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMyA4OjE3OjQ5IEFNJmhhc2hfdmFsdWU9d0orVTdTYytNcVhieTJJc1UzcE1mZz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0yOA==
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 playlist_1080p.m3u8
 
