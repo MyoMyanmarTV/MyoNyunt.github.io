@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,mrtv4  
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA2OjI2OjUwIEFNJmhhc2hfdmFsdWU9T1dsU1AvSFpHeEk0U2lGdzhWcjg1dz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMw==
-#EXTM3U
+#sport1
 #EXTINF:-1,Sports VIP1 http://150.95.25.221:8000/Sports%20VIP%5FHBO?u=oO0215WiioknIIgz:p=hjlW14558dg2656 
 #EXTINF:-1,Sports VIP2 http://150.95.25.221:8000/Sports%20VIP%5FCinemax?u=oO0215WiioknIIgz:p=hjlW14558dg2656 
 #EXTINF:-1,Sports Vip3 http://150.95.25.221:8000/Sports%20Vip3?u=oO0215WiioknIIgz:p=hjlW14558dg2656 
@@ -104,7 +104,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1,Arirang Korea http://150.95.25.221:8000/Arirang%20Korea?u=oO0215WiioknIIgz:p=hjlW14558dg2656 
 #EXTINF:-1,Astro Sports1 http://150.95.25.221:8000/Astro%20Sports1?u=oO0215WiioknIIgz:p=hjlW14558dg2656 
 #================================================================================================================================= ------------ 
-#EXTM3U
+#sport2
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,True Sports 1
