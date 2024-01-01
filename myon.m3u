@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1 ,mrtv4  
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA2OjI2OjUwIEFNJmhhc2hfdmFsdWU9T1dsU1AvSFpHeEk0U2lGdzhWcjg1dz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMw==
-
+#EXTINF:-1 ,mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 ,5plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w952929156.m3u8
+#EXTINF:-1 , chsnnalk
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+sport
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,True Sports 1
